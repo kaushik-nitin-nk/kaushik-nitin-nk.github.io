@@ -3,3 +3,5 @@
 ### following corona regulation
 
 ![](photo.jpg)
+
+[about](about)
