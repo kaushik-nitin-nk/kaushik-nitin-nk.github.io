@@ -2,7 +2,4 @@
 ## the new normal 
 ### following corona regulation
 
-
-
-Lift
-![Lift](photo.jpg)
+![](photo.jpg)
