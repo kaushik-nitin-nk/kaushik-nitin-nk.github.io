@@ -13,3 +13,5 @@ ___
 ---
 
 ***
+Lift
+![Lift](photo.jpg)
