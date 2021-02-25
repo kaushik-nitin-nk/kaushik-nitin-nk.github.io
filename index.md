@@ -1,17 +1,8 @@
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+# Missing old days-)
+## the new normal 
+### following corona regulation
 
 
-## Horizontal Rules
 
-___
-
----
-
-***
 Lift
 ![Lift](photo.jpg)
