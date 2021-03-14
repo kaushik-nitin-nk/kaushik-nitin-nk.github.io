@@ -1,4 +1,4 @@
-[Home](/)
+[](/)
 
 Hello
 This is Nitin

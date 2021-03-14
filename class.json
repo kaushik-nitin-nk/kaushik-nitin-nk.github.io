@@ -1,0 +1,22 @@
+{
+ "users": {
+   "nk" :  {
+       "namefirst":"Nitin",
+       "namelast":"Kaushik"
+   } ,
+   "lb" : {
+       "namefirst":"Leon",
+       "namelast":"Blaser"
+   }
+},
+ "cats": {
+    "cat1" : {
+        "name":"Dieter",
+        "color":"black"
+    },
+    "cat2" : {
+        "name": "frisky",
+        "color":"white"
+    }
+}
+}
